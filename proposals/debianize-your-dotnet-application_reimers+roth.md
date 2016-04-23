@@ -18,7 +18,7 @@ Jacob is Head of Technical Architecture at Roche Diagnostics where he oversees d
 
 ### André Roth
 
-André is Senior Software Architect at Roche Diagnostics where he is responsible for the Instrument Control Software Platform and oversees the GNU/Linux development and employee trainings. As a Free Software enthusiast, he has ben actively promoting Linux based solutions for years.
+André is Senior Software Architect at Roche Diagnostics where he is responsible for the Instrument Control Software Platform and oversees the GNU/Linux development and employee trainings. As a Free Software enthusiast, he has been actively promoting Linux based solutions for years.
 
 ## Links
 
